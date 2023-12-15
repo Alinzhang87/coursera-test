@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/png" href="img/456.png"/>
+		<link rel="stylesheet"type="text/css"href="color.css"/>
+		<title>123</title>
+		
+	</head>
+	<body>
+		<a href="https://www.51zxw.net"target="_blank">woyaoziwenwan</a>
+		<a href="Room/Room2/phd.html"target="_blank">123</a>
+	</body>
+</html>
